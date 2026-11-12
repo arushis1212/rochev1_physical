@@ -1,0 +1,25 @@
+id,component,group,quantity_per_fixture_kit,material_or_type,function
+P01,Base,Frame,1,Printed PLA,"Locates the hook guides, pin stand and tail support on a common base."
+P02,Hook carrier,Hook motion,1,Printed PLA,Holds the purchased hook as the operator slides and rolls it.
+P03A,Lower guide,Hook motion,2,Printed PLA,Supports the carrier journal at each of the two guide stations.
+P03B,Guide cap,Hook motion,2,Printed PLA,Closes each split guide around the journal while allowing translation and rotation.
+P08,Stop collar,Hook motion,1,Printed PLA,Sets the carrier’s home end of travel.
+P04,Pin stand,Chain register,1,Printed PLA,Guides the two steel pins as they enter and withdraw from the foundation chain.
+P05,Fork handle,Chain register,1,Printed PLA,Couples both pins so the operator can retract them together.
+P06,Tail clamp stand,Yarn handling,1,Printed PLA,Carries the clip that holds the foundation tail.
+P07,Handheld yarn guide,Yarn handling,1,Printed PLA,Presents the working strand to the hook through a smooth eye.
+P09,Chain gauge,Setup,1,Printed PLA,Checks the prepared chain opening before it goes on the pins.
+P00A,Slide-fit coupon,Fit tools,1,Printed PLA,Provides candidate bores for checking printed sliding fits.
+P00B,Test journal,Fit tools,1,Printed PLA,Mates with the slide-fit coupon to check rotation and sliding.
+P00C,Hardware-fit coupon,Fit tools,1,Printed PLA,Checks how purchased rod and nuts fit the printed features.
+P00D,Nut-retention coupon,Fit tools,1,Printed PLA,Reproduces a clamp feature for checking nut capture and rod retention.
+H01,Crochet hook,Purchased hardware,1,Aluminum,Forms the loop.
+H03,Registration pins,Purchased hardware,2,Stainless steel,Hold the target opening on either side of the hook path.
+H04,Base mounting screws,Purchased hardware,8,Socket-head screws,Secure the stands and guides to the base.
+H05,Guide cap screws,Purchased hardware,4,Socket-head screws,Fasten the upper and lower guide halves.
+H06,Hook centering screws,Purchased hardware,8,Socket-head screws,Center the purchased hook in its carrier.
+H07,Clamp screws,Purchased hardware,3,Socket-head screws,Secure the rods and the carrier stop.
+H08,Hex nuts,Purchased hardware,23,Plain hex nuts,Receive the mounting and clamp screws.
+H09,Flat washers,Purchased hardware,12,Flat washers,Spread the screw-head load on the mounts and guides.
+H10a,Tail clip,Purchased hardware,1,Binder clip,Anchors the foundation tail at its stand.
+H10b,Feed clip,Purchased hardware,1,Binder clip,Temporarily holds the working strand.
